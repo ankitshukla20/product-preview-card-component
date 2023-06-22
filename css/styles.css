@@ -114,7 +114,7 @@ p {
 @media screen and (max-width: 700px) {
     .container {
         height: 100%;
-        width: 97vw;
+        width: 95vw;
     }
 
     .image {
@@ -123,17 +123,17 @@ p {
 
     .image-mobile {
         display: inline-block;
-        width: 360px;
+        width: 340px;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
     }
 
     .grid-container {
         margin: 30px;
-        height: 670px;
-        width: 360px;
-        grid-template-columns: 360px;
-        grid-template-rows: 235px 455px;
+        height: 650px;
+        width: 340px;
+        grid-template-columns: 340px;
+        grid-template-rows: 225px 445px;
         gap: 0px;
     }
 
